@@ -1,5 +1,5 @@
 #Mintsflow
-My personal and mini-projects. This is a Front end workflow for those those people love to use gulp and sass. Mintsflow is based the idea with [getfireshell.com](http://getfireshell.com).
+My personal and mini-projects. This is a Front end workflow for those those people love to use gulp and sass. Mintsflow is based the idea with [getfireshell.com](http://getfireshell.com), [Harvest](https://github.com/ryanbenson/Harvest).
 
 ## Todo's
  * Refactors and edit the index.html
